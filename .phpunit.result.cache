@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test\\Test01Test::testIterations_3":3,"Test\\Test01Test::testIterations_30":3,"Test\\Test01Test::testIterations_60":3,"Test\\Test01Test::testIterations_100":3},"times":{"Test\\Test01Test::testIterations_3":0.003,"Test\\Test01Test::testIterations_30":0,"Test\\Test01Test::testIterations_60":0,"Test\\Test01Test::testIterations_100":0}}
